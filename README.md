@@ -1,11 +1,3 @@
-Based on the code in the `azhlm/qbot` repository, here is a new README file:
-
----
-
-# qbot
-
-My code used for the analysis.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
